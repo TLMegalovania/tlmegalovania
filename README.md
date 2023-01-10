@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="TLMegalovania's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThalliMega&hide_border=true&layout=compact&theme=transparent" align="center" />
+      <img alt="TLMegalovania's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThalliMega&hide_border=true&layout=compact&theme=transparent&custom_title=Wakatime%20Stats%20This%20Week" align="center" />
     </td>
   </tr>
 </table>
