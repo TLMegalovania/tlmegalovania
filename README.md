@@ -1,5 +1,7 @@
 # 😭  
 
+[![wakatime](https://wakatime.com/badge/user/4cc875c2-7bcf-4922-b15e-8c472a32345b.svg)](https://wakatime.com/@4cc875c2-7bcf-4922-b15e-8c472a32345b)
+
 <table>
   <tr>
     <th>
