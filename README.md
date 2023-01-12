@@ -5,10 +5,10 @@
 <table>
   <tr>
     <th>
-      <img alt="ThalliMega's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThalliMega&show_icons=true&theme=transparent&hide_border=true" align="center" />
+      <img alt="ThalliMega's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThalliMega&show_icons=true&theme=transparent&hide_border=true" align="center" />
     </th>
     <th>
-      <img alt="ThalliMega's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliMega&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+      <img alt="ThalliMega's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThalliMega&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
     </th>
   </tr>
   <tr>
