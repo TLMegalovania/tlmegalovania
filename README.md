@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td colspan=2>
-      <img alt="ThalliMega's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThalliMega&hide_border=true&layout=compact&theme=transparent&custom_title=Wakatime%20Stats%20This%20Week" align="center" />
+      <img alt="ThalliMega's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThalliMega&hide_border=true&layout=compact&theme=transparent&custom_title=Wakatime%20Stats%20All%20The%20Time" align="center" />
     </td>
   </tr>
 </table>
